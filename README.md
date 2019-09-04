@@ -18,6 +18,10 @@ Install / Uninstall / List shadow suids.
 
 Execute without paramteres to print the usage.
 
+### extract_signature.py
+
+Extract file signature.
+
 ### interpreter_dummy.c
 
 An example of a tiny possible interpreter for shadow suid.
